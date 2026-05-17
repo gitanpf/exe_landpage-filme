@@ -1,12 +1,3 @@
-├── index.html          # Página principal da landing page
-├── css/
-│   └── style.css       # Estilização global e responsividade
-├── js/
-│   ├── jquery.min.js   # Biblioteca jQuery (Local)
-│   └── main.js         # Lógica de interações e plugins
-└── assets/             # Imagens e identidade visual do projeto
-Aqui está o código pronto para você copiar e colar direto no seu arquivo `README.md`. Já deixei configurado com o seu nome e os links certinhos para o seu perfil.
-```markdown
 # 💍 The Lord of the Rings - Landing Page
 
 Uma landing page minimalista, elegante e responsiva dedicada ao universo de **O Senhor dos Anéis**. O projeto foi desenvolvido com foco em uma interface limpa, tipografia marcante e interações suaves, priorizando uma estrutura de código sólida e o entendimento real da lógica por trás de cada componente.
